@@ -9,5 +9,5 @@
     <tizen:privilege name="http://developer.samsung.com/privilege/network.partner"/>
     <tizen:privilege name="http://developer.samsung.com/privilege/network.public"/>
     <tizen:profile name="tv-samsung-public"/>
-    <tizen:setting screen-orientation="portrait" context-menu="enable" background-support="disable" encryption="disable" install-location="auto" hwkey-event="enable"/>
+    <tizen:setting screen-orientation="landscape" context-menu="enable" background-support="disable" encryption="disable" install-location="auto" hwkey-event="enable"/>
 </widget>
